@@ -1,2 +1,2 @@
-# Sudoko_Solver
- It is a webpage solving sudoko and generating sudoko
+# Sudoku_Solver
+ It is a webpage solving sudoku and generating sudoku
